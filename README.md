@@ -1,2 +1,3 @@
 # git-test
-MY fierst GitHub repo! 
+MY first GitHub repo! 
+Hello Odin!
